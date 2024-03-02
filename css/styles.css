@@ -1,0 +1,12 @@
+.carousel-item img{
+    height:90vh;
+    object-fit: cover;
+    object-position: center;
+}
+
+.parallax{
+    background-color: #343a40;
+    background-image: url(../image/pexels-jeremy-bishop-2922672.jpg);
+    background-position: center;
+    background-size: cover;
+}
